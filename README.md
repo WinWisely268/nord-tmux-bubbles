@@ -18,6 +18,14 @@ Learn about the [installation and activation][nord-docs-home-install], how to [c
 
 ### Quick Start
 
+##### Fork of Official Nord tmux
+
+Changed it to look like this:
+
+<p align="center"><img src="https://i.ibb.co/Fmw60WP/screenshot-2020-06-24-071318.png"/></p>
+
+That was run alongside nvim.
+
 Thanks to existing plugin managers for tmux, Nord tmux can be installed for all platforms in a uniform way within a few lines of codes. The recommended manager is [tpm][gh-tmux-plugins/tpm], but any other manager like [tundle][gh-javier-lopez/tundle] can also be used.
 
 To automatically download and activate Nord tmux, follow the install instructions for [tpm][gh-tmux-plugins/tpm] and
